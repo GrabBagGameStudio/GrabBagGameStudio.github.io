@@ -24,3 +24,5 @@ version:          1.0
 
 github:
   repo:           
+
+theme: jekyll-theme-slate
