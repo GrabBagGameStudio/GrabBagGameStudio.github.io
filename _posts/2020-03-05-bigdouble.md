@@ -20,8 +20,8 @@ Luckily, while incremental games do need arbitrary size, they don’t need arbit
 If you’re coding an incremental game, or perhaps a tool or website about an incremental game, BigDouble is an essential piece of the puzzle. Technically, the max value of a BigDouble is about 1e(9e18), since the exponent is a long. Not quite infinity, but close enough.
 
 ## Links
-- https://docs.microsoft.com/en-us/dotnet/standard/numerics
-- https://docs.microsoft.com/en-us/dotnet/api/system.numerics.biginteger
-- https://github.com/AdamWhiteHat/BigDecimal
-- https://en.wikipedia.org/wiki/Significand
-- https://github.com/Razenpok/BreakInfinity.cs
+- <https://docs.microsoft.com/en-us/dotnet/standard/numerics>
+- <https://docs.microsoft.com/en-us/dotnet/api/system.numerics.biginteger>
+- <https://github.com/AdamWhiteHat/BigDecimal>
+- <https://en.wikipedia.org/wiki/Significand>
+- <https://github.com/Razenpok/BreakInfinity.cs>
