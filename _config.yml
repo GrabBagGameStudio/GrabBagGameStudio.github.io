@@ -12,7 +12,7 @@ author: Grab Bag Game Studio
 description: Dev Blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/reverie.png
+avatar: /images/favicon.png
 
 #
 # Flags below are optional
@@ -35,6 +35,8 @@ footer-links:
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
 
+footer_url: http://grabbaggamestudio.com
+footer_name: Grab Bag Game Studio
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
